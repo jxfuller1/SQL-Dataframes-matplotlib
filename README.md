@@ -10,4 +10,4 @@ I then use that data to create charts in the UI using Matplotlib and the program
 for formatting and the altering the look and then printing.
 
 
-![1](https://github.com/jxfuller1/SQL-Dataframes-matplotlib/assets/123666150/9ee2b691-bb52-4ce4-bcfc-cf35863940bb)
+![ncrupdate](https://github.com/jxfuller1/SQL-Dataframes-matplotlib/assets/123666150/d1721108-f4c2-4537-bec6-96e53112580a)
